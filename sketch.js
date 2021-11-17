@@ -18,7 +18,7 @@ function preload(){
   gameOverImage = loadImage("gameover.png")
   
   gameOverSound = loadSound("gameover.mp3")
-  knifeSwooshSound = loadSound("knifeSwoosh.mp3")
+  knifeSwooshSound = loadSound("KnifeSwoosh.mp3")
 }
 
 
